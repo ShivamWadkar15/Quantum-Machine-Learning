@@ -1,7 +1,7 @@
 # 📌 Quantum Machine Learning (QML) for MNIST Classification 🚀  
 
 ## 📖 Project Overview  
-This project explores **Quantum Machine Learning (QML)** by using a **Quantum Neural Network (QNN)** to classify **handwritten digits (5 and 9) from the MNIST dataset**. It integrates **Quantum Computing with Deep Learning** using **TensorFlow Quantum (TFQ)** and **Cirq**, creating a **hybrid quantum-classical model**.  
+This project explores **Quantum Machine Learning (QML)** by using a **Quantum Neural Network (QNN)** to **MNIST dataset**. It integrates **Quantum Computing with Deep Learning** using **TensorFlow Quantum (TFQ)** and **Cirq**, creating a **hybrid quantum-classical model**.  
 
 ---
 
@@ -18,7 +18,7 @@ This project explores **Quantum Machine Learning (QML)** by using a **Quantum Ne
 ## 📌 Project Workflow  
 
 ### 1️⃣ Load and Preprocess Data  
-- The **MNIST dataset** (handwritten digits 0-9) is used.  
+- The **MNIST dataset**is used.  
 - Only **digits 5 and 9** are selected for **binary classification**.  
 - The labels are converted to **binary format** (5 → 1, 9 → 0).  
 
