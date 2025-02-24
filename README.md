@@ -19,7 +19,7 @@ This project explores **Quantum Machine Learning (QML)** by using a **Quantum Ne
 
 ### 1️⃣ Load and Preprocess Data  
 - The **MNIST dataset**is used.  
-- Only **digits 5 and 9** are selected for **binary classification**.  
+- Only **label 5(Sandal) and 9(Ankle boot)** are selected for **binary classification**.  
 - The labels are converted to **binary format** (5 → 1, 9 → 0).  
 
 ### 2️⃣ Convert Images to Binary  
